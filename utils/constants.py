@@ -1,0 +1,8 @@
+#
+#
+
+DEFAULT_USER_COL = ""
+
+DEFAULT_HEADER = (
+    DEFAULT_USER_COL
+)

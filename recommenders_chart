@@ -1,0 +1,28 @@
+Recommenders :
+
+
+                              
+
+                              | --> utils :  constants.py , python_utils.py , spark_utils.py , notebook_utils.py, general_utils.py
+                              | --> datasets : movielens.py
+                              | --> model : 
+recommenders --> recommenders | --> etl : movielens.py
+
+
+
+
+
+
+google reviews :
+
+
+usually not. Look, not to sound condescending, but we didn’t pass the google interview to waste our time writing unit tests (ew). Because then what’s next.
+
+
+ Reviewing each others’ code? 
+
+ Setting up continuous integration? 
+
+ Keeping the size of our apps small and their CPU/memory cost in check? Monitoring?
+
+ Who’s got time for any of that.
